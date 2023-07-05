@@ -3,6 +3,7 @@ import { Component, AfterViewInit } from '@angular/core';
 
 import Swiper, { Navigation, Pagination } from 'swiper';
 
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',

@@ -30,6 +30,8 @@
               "src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
+              "./node_modules/flexboxgrid/css/flexboxgrid.min.css",
               "./node_modules/swiper/swiper.css",
               "src/styles.scss"
             ],
@@ -94,6 +96,7 @@
               "src/assets"
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.scss"
             ],
             "scripts": []
